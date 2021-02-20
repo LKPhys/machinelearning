@@ -1,1 +1,1 @@
-# Dumping ground for IBM - Machine Learning tutorials and Kaggle attempts
+# Dumping ground for Machine Learning tutorials and Kaggle attempts
